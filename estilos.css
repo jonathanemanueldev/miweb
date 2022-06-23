@@ -1,0 +1,26 @@
+body marquee {
+    padding-top: 12px;
+    background-color: black;
+    color: white;
+}
+
+div ul li a  {
+    color:white !important;
+}
+
+.navbar-toggler {
+    background-color: white !important;
+}
+
+.centrado{
+    max-width: 380px;
+    margin: auto;
+    padding: auto;
+    text-align: left;
+    color: black;
+}
+
+.carousel-control-next, .carousel-control-prev{
+    margin: auto;
+    height: 100px;
+}
